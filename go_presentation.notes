@@ -1,0 +1,27 @@
+## Go introduction (Xiki rules)
+
+~/Projects/gocode/src/github.com/Zhebr/gointro
+
+  $$ go run helloworld.go
+  $$ go run if.go
+  $$ go run switch.go
+  $$ go run loop.go
+  $$ go run slices.go
+  $$ go run maps.go
+
+  $$ go run struct.go
+  $$ go run interfaces.go
+  $$ go run goroutines.go
+  $$ go run channels.go
+  $$ go run select.go
+
+## Want more?
+0. neat control flow with defer
+http://blog.golang.org/defer-panic-and-recover
+
+1. web app
+http://golang.org/doc/articles/wiki/
+
+~/Projects/gocode/src/github.com/Zhebr/gowiki
+
+  $$ go run wiki.go
